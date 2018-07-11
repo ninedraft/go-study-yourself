@@ -10,4 +10,4 @@
 Решение прислать в issues репозитория.
 
 Ссылка на задачу:
-https://play.golang.org/p/m7JoBMesgdO
+https://play.golang.org/p/7CNp3NNDpF_U
